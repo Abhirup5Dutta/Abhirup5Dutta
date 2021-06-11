@@ -6,7 +6,5 @@
 - 📫 How to reach me ... To raech me just mail me at abhirupdutta04acse@gmail.com or 
 - Get in touch with linkedin... [My LinkedIn profile](https://www.linkedin.com/in/abhirup-dutta-577417103/)
 Hope to collaborate with u and cretae some exciting stuff together... Regards...
-<!---
-Abhirup5Dutta/Abhirup5Dutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhirup5Dutta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
