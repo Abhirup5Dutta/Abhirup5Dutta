@@ -1,4 +1,4 @@
-![Banner image](https://drive.google.com/file/d/1Dfj_N2cJiHRS2FGwyLNafxLetSoU1Vm2/view?usp=sharing)
+![Banner image](https://giphy.com/gifs/zT7GxARBHr7sf7BTj3)
 
 - 👋 Hi, I’m @Abhirup5Dutta
 - 👀 I’m interested in web development
