@@ -1,4 +1,4 @@
-![Banner image](https://giphy.com/gifs/zT7GxARBHr7sf7BTj3)
+![Banner image](https://media.giphy.com/media/zT7GxARBHr7sf7BTj3/giphy.gif)
 
 - 👋 Hi, I’m @Abhirup5Dutta
 - 👀 I’m interested in web development
