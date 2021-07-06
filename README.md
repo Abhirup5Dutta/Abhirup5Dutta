@@ -1,3 +1,5 @@
+![Banner image](https://drive.google.com/file/d/1Dfj_N2cJiHRS2FGwyLNafxLetSoU1Vm2/view?usp=sharing)
+
 - 👋 Hi, I’m @Abhirup5Dutta
 - 👀 I’m interested in web development
 - I am currently learing Flutter, Dart and NodeJs
